@@ -1,0 +1,36 @@
+<!DOCTYPE html lang="en">
+<html>
+	<header>
+		<title>Schedule</title>
+	</header>
+	<body>
+		<h1>My Schedule</h1>
+		<hr / border="2">
+		<table border="2">
+			<tr>
+				<th>4pm</th>
+				<td>Wallow in Self Pity</td>
+			</tr>
+			<tr>
+				<th>4:30pm</th>
+				<td>Stare into the Abyess</td>
+			</tr>
+			<tr>
+				<th>5pm</th>
+				<td>Solve World Hunger (tell NO ONE)</td>
+			</tr>
+			<tr>
+				<th>5:30pm</th>
+				<td>JAZZERCIZE!!!</td>
+			</tr>
+			<tr>
+				<th>6:30pm</th>
+				<td>Dinner with me (can't cancel that again)</td>
+			</tr>
+			<tr>
+				<th>7pm</th>
+				<td>Wrestle with my Self-Loathing</td>
+			</tr>
+		</table>
+	</body>
+</html>
